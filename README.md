@@ -19,6 +19,8 @@ Theme Adaptation Documentation:
 The theme adaptation is achieved through React state management and CSS variables. The component has a theme state that represents the selected theme, which can be either "light" or "dark". Based on the value of the theme state, the appropriate CSS class is added to the parent container using template literals. For example, if the theme is "dark", the dark-theme class is added, which applies the dark theme styles defined in CSS.
 
 CSS variables are used to define the theme-specific colors. In the CSS file (Sidebar.css), the CSS properties are defined using the CSS variables. The CSS variables are then assigned different color values based on the selected theme.
+ ![2023-05-30](https://github.com/Ayush-1205/Sidechat/assets/101936254/832bd438-d98d-4618-aab9-bd83c57fb83b)
+
 
 Code Highlighting Documentation:
 
